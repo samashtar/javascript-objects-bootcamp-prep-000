@@ -1,4 +1,4 @@
-var playlist = {Prime: "I've Changed"}
+var playlist = {artist: "songtitle"}
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist['artistName'] = 'songTitle';
   return playlist;
