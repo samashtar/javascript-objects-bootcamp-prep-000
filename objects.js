@@ -1,5 +1,5 @@
 var playlist = {Prime: "I've Changed"}
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist.artistName = 'SongTitle'
+  playlist.artistName = 'songTitle'
   return playlist
 }
